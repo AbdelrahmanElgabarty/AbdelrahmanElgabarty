@@ -13,8 +13,7 @@
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| **[GIU-Nexus](https://github.com/Sanad-Manga/GIU-Nexus)** | AI-powered career & talent platform — I own the job posting/lifecycle, recommendations, and AI integration; fixed embedding caching, HF reliability, and a mass-assignment security bug | MERN · HuggingFace · Docker | ✅ Complete |
-
+| **[GIU-Nexus](https://github.com/Sanad-Manga/GIU-Nexus)** | AI-powered job posting lifecycle — full CRUD, HuggingFace zero-shot classification, embedding-based recommendations (MiniLM-L6-v2 + cosine similarity), Swagger docs | MERN · HuggingFace · Docker | ✅ Complete |
 ---
 
 ## 🎯 Currently Learning
