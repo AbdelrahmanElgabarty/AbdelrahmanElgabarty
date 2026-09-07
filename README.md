@@ -16,15 +16,6 @@
 | **[GIU-Nexus](https://github.com/Sanad-Manga/GIU-Nexus)** | AI-powered job posting lifecycle — full CRUD, HuggingFace zero-shot classification, embedding-based recommendations (MiniLM-L6-v2 + cosine similarity), Swagger docs | MERN · HuggingFace · Docker | ✅ Complete |
 ---
 
-## 🎯 Currently Learning
-
-- 📘 Working toward **CompTIA Security+**
-- 🖥️ Built a **Kali Linux** VM lab for network penetration testing practice
-- 📡 Researching WiFi adapters with monitor-mode support for wireless security testing
-- 🚩 Practicing with **CTFs** — writeups tracked on GitHub
-
----
-
 ## 🛠 Tools & Tech
 
 **Security & Forensics**
@@ -42,11 +33,10 @@
 
 ---
 
-## 🎓 A Bit About Me
-
-- CS student @ German International University (GIU), Cairo, Egypt
-- Focused on cybersecurity — targeting a SOC Analyst role, building toward security engineering
-- Hands-on with network analysis, web app testing, and digital forensics tooling
+## 🎯 A Bit About Me
+- 🎓 CS junior @ GIU, specializing in Cybersecurity
+- 🔍 Interested in SOC, digital forensics and building security tools
+- 🎮 Gamer when I'm not in a lab environment
 - 📍 Cairo, Egypt
 
 ---
