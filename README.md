@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abdelrahman--elgabarty-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-elgabarty/)
 [![GitHub](https://img.shields.io/badge/GitHub-AbdelrahmanElgabarty-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdelrahmanElgabarty)
+[![Email](https://img.shields.io/badge/Email-abdelrahman@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabarty06@gmail.com)
 
 ---
 
