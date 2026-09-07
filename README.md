@@ -4,7 +4,7 @@
 
 *Working toward a SOC Analyst role and security engineering — learning by breaking things safely, one lab at a time.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdelrahman--elgabarty-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelrahman-elgabarty-b7256a237)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdelrahman--elgabarty-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/abdelrahman-elgabarty-b7256a237](https://www.linkedin.com/in/abdelrahman-elgabarty/))
 [![GitHub](https://img.shields.io/badge/GitHub-AbdelrahmanElgabarty-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdelrahmanElgabarty)
 
 ---
