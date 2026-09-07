@@ -4,7 +4,7 @@
 
 *Working toward a SOC Analyst role and security engineering — learning by breaking things safely, one lab at a time.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdelrahman--elgabarty-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[www.linkedin.com/in/abdelrahman-elgabarty](https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BWvyO85oaQ%2FG7c%2BhLo9nmAA%3D%3D))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdelrahman--elgabarty-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-elgabarty/)
 [![GitHub](https://img.shields.io/badge/GitHub-AbdelrahmanElgabarty-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdelrahmanElgabarty)
 
 ---
@@ -14,6 +14,7 @@
 | Project | Description | Stack | Status |
 |---|---|---|---|
 | **[GIU-Nexus](https://github.com/Sanad-Manga/GIU-Nexus)** | AI-powered job posting lifecycle — full CRUD, HuggingFace zero-shot classification, embedding-based recommendations (MiniLM-L6-v2 + cosine similarity), Swagger docs | MERN · HuggingFace · Docker | ✅ Complete |
+
 ---
 
 ## 🛠 Tools & Tech
